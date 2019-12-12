@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Test</title>
+</head>
+  <style> 
+    body {
+      font-family:arial
+    }
+    body {
+      background-color:#A8EBFF
+    }
+    #headerone {
+      font-family:serif
+    }  
+    #headerone {
+      background-color:yellow
+    }
+    #paraone {
+      font-family:serif
+    }
+    #paraone {
+      color:blue
+    }
+    #listtwo {
+      color:blue
+    }
+    #headertwo  {
+      font-family:arial
+    }
+  
+    #parathree {
+      color:black
+    }
+    h2 {
+      background-color:yellow
+    }
+    #listfour {
+      font-size:11px
+    }
+    
+    #listfive{
+      
+    }
+    #parafour {
+      font-family:serif
+    }
+    
+  </style>
+<body>
+  <h1 id="headerone"><center>This is my first simple webpage</center></h1>
+  
+  <h4>contents</h4>
+  
+  <ul>
+    <li id="conclusion"><a href="#conclusion">conclusion</a></li>
+  </ul>
+  
+  <p id="paraone">My name is Katherine Nugent and this is my first webpage outside of KhanAcademy. 
+    I want to make sure I <i>retained</i> the information I have learned as well as put it 
+    to use. Here is a basic list of the things I have learned.</p>
+  
+  <ul>
+    <li>How to change the <i>font</i></li>
+    <li id="listtwo">How to change text color</li>
+    <li id="listthree">how to insert images and link images</p>
+  <a href="https://en.wikipedia.org/wiki/Dog"><img src="https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/09/dog-landing-hero-lg.jpg?bust=1536935129&width=1440"
+  alt = dog width=200></a>
+  <li id="listfour">how to change font size</li>
+  <li>how to insert <a href="https://htmlcolorcodes.com">links</a>
+  </ul>
+  
+  <h2 id="headertwo">A brief paragraph of things I'm the most proud of</h2>
+  
+  <p id="parathree">This has been a <i>very</i> fun little hobby to pick up. Maybe if I continue 
+  working on it, I could make it a full time thing. I enjoy the creativity that goes 
+  along with it, as well as the organization. I'm very grateful for the internet
+  offering so many resources to help me with this little project. I am most proud of figuring out internal 
+  links, as well as linking images. I struggled during the course to wrap my head around it, 
+  but I seem to have the hang of it. </p>
+  
+  <ol>
+    <li>this is pretty sick</li>
+    <li><b>like you're creating something in an interesting way</b></i>
+  <li>like I can just add in this picture of a cow what the fuck</li>
+  <img src="https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg" alt=dog height=200
+  </ol>
+  
+  <h2 id="conclusion">In Conclusion</h2>
+  
+  <p id="parafour">This has been fantastic. It's a lot of fun and just the right amount of challenging. 
+  </p>
+</body>
+</html>
